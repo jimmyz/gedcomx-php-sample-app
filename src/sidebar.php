@@ -27,6 +27,10 @@
       array(
         'title' => 'Person Search',
         'url' => 'PersonSearch.php'
+      ),
+      array(
+        'title' => 'Read a Person\'s Memories',
+        'url' => 'ReadPersonMemories.php'
       )
     )
   );
